@@ -1,7 +1,7 @@
 """
 Script: Bunnings Office - Automated Log-ins + Desktop Apps & Browser Windows layout 
 Version: v1.0
-Author: m4cd4r4 - Physiology & Pharmacology
+Author: m4cd4r4
 Date: 15/01/2023
 
 Dependencies:
